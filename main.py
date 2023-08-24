@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=jq5QfwDkBGs
+# Thanks to Nicholas Renotte
+
 import cv2
 import mediapipe as mp
 import numpy as np
